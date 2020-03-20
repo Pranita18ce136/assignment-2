@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    color: rgb(233, 73, 15);
+    text-decoration:underline;
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color:rgb(73, 73, 1);
+    text-align: center;
+}
+.geo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color:rgb(78, 78, 3);
+    
+}
+img{
+    float: right;
+    width: 300px;
+    height:350px;
+
+}
+table{
+  
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:hover {background-color:#068b6f;}
